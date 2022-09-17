@@ -1,0 +1,24 @@
+:root{
+    --font-Alumni: 'Alumni Sans Pinstripe', sans-serif;
+    --font-Lexend: 'Lexend Deca', sans-serif;
+    --font-Nunito: 'Nunito', sans-serif;
+    --font-PressStart: 'Press Start 2P', cursive;
+    --font-Roboto: 'Roboto', sans-serif;
+    --font-Silkscreen: 'Silkscreen', cursive;
+}
+
+header {
+    width: 100%;
+    height: 52px;
+    background-color: #22303A;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: var(--font-Roboto);
+    font-size: 24px;
+    color: #FFFFFF;
+}

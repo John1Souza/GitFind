@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --font-Alumni: 'Alumni Sans Pinstripe', sans-serif;
+    --font-Lexend: 'Lexend Deca', sans-serif;
+    --font-Nunito: 'Nunito', sans-serif;
+    --font-PressStart: 'Press Start 2P', cursive;
+    --font-Roboto: 'Roboto', sans-serif;
+    --font-Silkscreen: 'Silkscreen', cursive;
+}
+body {
+    background-color: #1D2128;
+}
+
+hr {
+    background-color: rgba(229,229,229,0.2);
+    border: 1px solid rgba(229,229,229,0.2);
+}
